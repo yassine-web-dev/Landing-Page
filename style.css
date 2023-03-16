@@ -9,7 +9,7 @@
 }
 
 body {
-	background-image: url('../Images/Image.png'), url('../Images/Background.png');
+	background-image: url('./Images/Image.png'), url('./Images/Background.png');
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
 	     -o-background-size: cover;
