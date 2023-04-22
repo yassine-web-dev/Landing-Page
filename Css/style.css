@@ -9,7 +9,7 @@
 }
 
 body {
-	background-image: url('./Images/Image.png'), url('./Images/Background.png');
+	background-image: url('../Images/Image.png'), url('../Images/Background.png');
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
 	     -o-background-size: cover;
@@ -32,7 +32,7 @@ body {
 
 @font-face {
 	font-family: 'MADE Tommy Soft';
-	src: url(MADE Tommy Soft Medium Outline PERSONAL USE.otf)
+	src: url('../fonts/MADETommySoft-Medium.ttf')
 }
 
 /* End Framework */
